@@ -1,0 +1,16 @@
+populacao: 19 917 345
+
+extencao territorial: 756.626 km²
+
+comidas tipicas: Cazuela,Cazuela,Congrio.
+
+clima:  Mediterrâneo e Temperado.
+
+vegetacao: a vegetacao no chile vai de muito rarefeita e de baixo porte,
+nas terras setentrionais,ate densa e de maior porte, nas areas meridionais, 
+sendo influenciada pelos tipos de solo e padrao de distribuicao da umidade.
+
+relevo: montanhas,as quais se estendem de norte a sul pela cordilheira dos Andes,
+formando toda a sua paisagem oriental.
+Essa formação se separa da planície costeira por uma estreita 
+região composta por vales que percorrem a faixa central do país.
